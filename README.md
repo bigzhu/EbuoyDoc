@@ -79,7 +79,7 @@ Ebuoy(English Buoy) 将 YouTube 字幕生成文章, 看视频时标记单词, �
 
 ### 准备工作
 
-初期有做[APP寻找](/other_tool.md)工作, 还是决定开发让自己满意; 过程中做了必要的[字典配置](/dictionary.md), 尝试了[很多方法](/old_way.md), 把目前感觉最好的 v3 版整理出来, 需要对[Ebuyo 的基础功能](/how_to_use.md)有所了解.
+初期有做[APP寻找调研](/other_tool.md), 还是决定开发让自己满意; 过程中做了必要的[字典配置](/dictionary.md), 尝试了[很多方法](/old_way.md), 把目前感觉最好的 v3 版整理出来, 需要对[Ebuyo 的基础功能](/how_to_use.md)有所了解.
 
 ### 基本操作及理论
 
