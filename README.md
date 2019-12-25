@@ -34,7 +34,7 @@ Ebuoy(English Buoy) 将 YouTube 字幕生成文章, 看视频的同时精读标�
 <img src="/assets/img/2019-10-01%2008.45.34.jpg" width="240px"/>
 
 
-可以在 Google Play 下载: [<img src="/assets/img/en_badge_web_generic.png" width="200px">](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)
+可以在  [<img src="/assets/img/en_badge_web_generic.png" width="120px">](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy) 下载
 
 如果有任何问题和意见请提 issues 或者加入 https://t.me/Ebuoy 讨论.
 
@@ -125,20 +125,21 @@ focused 和 intensive 的 learning 方式不会轻松愉快, 好在还残留着�
 
 
 ## Q & A
-### YouTube 插入广告太多了
+
+>YouTube 插入广告太多了
 
 导入 Ebuoy 来看就没广告了.
 
-### 买不起 YouTube 会员, 又想后台播放视频以训练听力怎么办?
+>没有 YouTube 会员, 怎么后台播放训练听力?
 
-Ebuoy 目前还未开发这个功能, 但是可以利用 Ebuoy 的一个 BUG 来实现同样的效果:
+Ebuoy 目前没这个功能, 但是可以利用它的 BUG 来实现:
 
-1. 设置里确定打开自动播放的开关
-2. 进入想要后台播放的视频, 显示出字幕文章但是视频还未来得及自动播放时, 迅速切回手机桌面或者关闭手机屏幕, 等待片刻, Ebuoy 依然会自动开始播放, 从而实现视频后台播放.
+1. 设置里打开自动播放
+2. 进视频详情, 出现字幕文章但还未播放前, 切回桌面/关闭手机屏幕; Ebuoy 依然会自动播放, 从而实现后台播放.
 
-### 视频太难想删除
+>怎么删除导入的视频?
 
-列表左滑条目, 会出现删除按钮.
+  列表左滑条目, 会出现删除按钮.
 
 ## 总结和其他
 
