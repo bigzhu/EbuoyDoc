@@ -33,6 +33,8 @@ Ebuoy(English Buoy) 将 YouTube 字幕生成文章, 看视频时标记单词, �
 
 [<img src="/assets/img/en_badge_web_generic.png" width="120px">](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)
 
+给没有安装 google play 的朋友: <a href="/assets/apk/ebuoy1.2.11.apk" target="_blank">APK 直接下载</a>
+
 欢迎通过 issues 或加入 https://t.me/Ebuoy 提问题和改进意见.
 
 ## 缘由
