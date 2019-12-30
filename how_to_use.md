@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Ebuoy 基础功能介绍](#ebuoy-%E5%9F%BA%E7%A1%80%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)
+  - [分享自 YouTube](#%E5%88%86%E4%BA%AB%E8%87%AA-youtube)
+  - [单击查词](#%E5%8D%95%E5%87%BB%E6%9F%A5%E8%AF%8D)
+  - [标记单词](#%E6%A0%87%E8%AE%B0%E5%8D%95%E8%AF%8D)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Ebuoy 基础功能介绍
 
 ### 分享自 YouTube

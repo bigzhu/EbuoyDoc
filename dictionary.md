@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [字典](#%E5%AD%97%E5%85%B8)
+  - [朗文5++ ·双解·例句发音](#%E6%9C%97%E6%96%875-%C2%B7%E5%8F%8C%E8%A7%A3%C2%B7%E4%BE%8B%E5%8F%A5%E5%8F%91%E9%9F%B3)
+  - [其他](#%E5%85%B6%E4%BB%96)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 字典
 
 手机查词推荐使用 [欧陆字典](https://www.eudic.net), 安装后做一些配置:

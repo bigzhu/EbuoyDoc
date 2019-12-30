@@ -1,3 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [v2 我们究竟在学什么?](#v2-%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E5%9C%A8%E5%AD%A6%E4%BB%80%E4%B9%88)
+  - [难点](#%E9%9A%BE%E7%82%B9)
+  - [解决](#%E8%A7%A3%E5%86%B3)
+  - [实践效果](#%E5%AE%9E%E8%B7%B5%E6%95%88%E6%9E%9C)
+  - [实践效果2](#%E5%AE%9E%E8%B7%B5%E6%95%88%E6%9E%9C2)
+- [v1 学习方法合集](#v1-%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E5%90%88%E9%9B%86)
+  - [理论支撑](#%E7%90%86%E8%AE%BA%E6%94%AF%E6%92%91)
+  - [保持刷视频的舒适](#%E4%BF%9D%E6%8C%81%E5%88%B7%E8%A7%86%E9%A2%91%E7%9A%84%E8%88%92%E9%80%82)
+  - [当文章来读](#%E5%BD%93%E6%96%87%E7%AB%A0%E6%9D%A5%E8%AF%BB)
+  - [扫清残余目标100](#%E6%89%AB%E6%B8%85%E6%AE%8B%E4%BD%99%E7%9B%AE%E6%A0%87100)
+  - [死磕单词](#%E6%AD%BB%E7%A3%95%E5%8D%95%E8%AF%8D)
+  - [集中轰炸](#%E9%9B%86%E4%B8%AD%E8%BD%B0%E7%82%B8)
+  - [听懂才行](#%E5%90%AC%E6%87%82%E6%89%8D%E8%A1%8C)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## v2 我们究竟在学什么?
 
 看[学语言总是在痛苦里挣扎2019.12.5](#学语言总是在痛苦里挣扎2019.12.5)就知道, 我一直还在纠结学习方法的问题, 昨晚看了这个视频: [How to Acquire any language NOT learn it!](https://www.youtube.com/watch?v=illApgaLgGA), 给了很大的启发. 推荐仔细看看; 视频没有字幕也没有翻译, 如果难以看懂也没关系, 下面主要的理念大约是这样: 
