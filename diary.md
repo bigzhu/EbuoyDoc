@@ -19,23 +19,23 @@
 
 ### English Learning Diary 20191230 Some thing is happening 
 
-It always happening in the morning in a period when I get up and clean myself time. 
+It always happens in the morning in a period when getting up and cleans myself time.
 
-normally, I always thinking something at this time, subconsciously the thinking change to use English!
+Normally I think something at that time, one day the thinking subconsciously change to use English!
 
-I don't know how and when this is happening. It's amazing! right!
+I don't know how and when this happens. That is amazing!
 
-When I brush teeth and take shower at this alone I will be thinking in English, if I talk to my family using Chinese will break this status. 
+When I brush teeth and take shower at this alone I will be thinking in English, if talks to my family use Chinese will break this status.
 
-No matter what, it is English! I never try thinking in English by myself subconsciously. Maybe my English thinking had so many errors: grammar even the wrong words, It doesn't matter, the important thing is I can use English thinking, it make me so excited. 
+No matter what, it's English! I never try to think in English subconsciously. Maybe my English thinking had so many errors: grammar even the wrong words, It doesn't matter, the important thing is I can use English thinking. it makes me so excited.
 
-I confirmed it's not hallucination by saying what I'm thinking. 
+I confirmed it's not hallucination by said the thinking content.
 
-I think it's happening maybe because I watched so many YouTube videos, most of the videos were one person talk to you, talk and talk ... sometimes, you also want talkback some to him, right? but you can't, it is just a video. 
+It's happened maybe cause I watched so many YouTube videos, most of the videos were one person talks to you, talk and talk ... sometimes you also want to talk back to him, right? But you can't because it is just a video.
 
-When you thinking at the alone time, it like thousands of people in your head talk to you, you don't know what they talk clearly but you can auto pick their words and phrases to express what you think, it awesome!
+When at that the alone time like thousands of people in your head and try to talk to you, you can' t clearly know what they said but can auto pick their words and phrases to express what my think, it awesome!
 
-These content were conceived when I took a shower today.
+This content was conceived when I took a shower today.
 
 ### 开始看小说2019.12.17
 
