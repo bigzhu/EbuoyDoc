@@ -1,6 +1,28 @@
 ## 使用日记
 
+>I just relearn a few months. If you found any incorrect English content please correct me by GitHub issues, grateful for your help.
+
 这里撸一下使用下来的感受, 增强使用的频率
+
+### English Learning Diary 20191230 Some thing is happening 
+
+It always happening in the morning in a period when I get up and clean myself time. 
+
+normally, I always thinking something at this time, subconsciously the thinking change to use English!
+
+I don't know how and when this is happening. It's amazing! right!
+
+When I brush teeth and take shower at this alone I will be thinking in English, if I talk to my family using Chinese will break this status. 
+
+No matter what, it is English! I never try thinking in English by myself subconsciously. Maybe my English thinking had so many errors: grammar even the wrong words, It doesn't matter, the important thing is I can use English thinking, it make me so excited. 
+
+I confirmed it's not hallucination by saying what I'm thinking. 
+
+I think it's happening maybe because I watched so many YouTube videos, most of the videos were one person talk to you, talk and talk ... sometimes, you also want talkback some to him, right? but you can't, it is just a video. 
+
+When you thinking at the alone time, it like thousands of people in your head talk to you, you don't know what they talk clearly but you can auto pick their words and phrases to express what you think, it awesome!
+
+These content were conceived when I took a shower today.
 
 ### 开始看小说2019.12.17
 
