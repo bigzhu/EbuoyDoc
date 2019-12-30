@@ -12,19 +12,20 @@
   - [extensive](#extensive)
   - [intensive](#intensive)
 - [Q & A](#q--a)
-- [总结和其他](#%E6%80%BB%E7%BB%93%E5%92%8C%E5%85%B6%E4%BB%96)
+- [总结](#%E6%80%BB%E7%BB%93)
+- [附录](#%E9%99%84%E5%BD%95)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 简要说明
 
-Ebuoy(English Buoy) 将 YouTube 字幕生成文章, 看视频时标记单词, 娱乐兼顾英语提升.
+[Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)(English Buoy) 将 YouTube 字幕生成文章, 看视频时标记单词, 娱乐兼顾英语提升.
 
 使用说明如图:
 
 <img src="/assets/img/how%20to%20use%20Ebuoy.jpg" width="240px"/>
 
-1. 从 YouTube 分享有英文字幕的视频到 Ebuoy.
+1. 从 YouTube 分享有英文字幕的视频到 [Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy).
 2. 播放视频, 同时听看字幕文章; 单击查词(配合欧陆字典), 长按标记单词为已掌握/未掌握.
 
 <img src="/assets/img/2019-10-01%2008.45.34.jpg" width="240px"/>
@@ -103,7 +104,7 @@ Ebuoy(English Buoy) 将 YouTube 字幕生成文章, 看视频时标记单词, �
 
 ### extensive
 
-利用 Ebuoy 把纯阅读改为听/看读模式: 放视频同时跟看字幕文章, 类似父母给孩子念故事, 比单纯的阅读难度更低, 用 **视觉** **听力** **阅读** 三方面同时加强理解上下文.
+利用 [Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy) 把纯阅读改为听/看读模式: 放视频同时跟看字幕文章, 类似父母给孩子念故事, 比单纯的阅读难度更低, 用 **视觉** **听力** **阅读** 三方面同时加强理解上下文.
 
 努力去理解内容享受乐趣; 同时长按单词标记为正确的状态: 灰色/绿色为未掌握, 黑色为已掌握. 操作简单, 不会打断阅读节奏.
 
@@ -135,14 +136,14 @@ ps: 之前 extensive 阅读过程如果多次标记, 最好返回列表重新进
 
 >YouTube 插入广告太多了
 
-导入 Ebuoy 来看就没广告了.
+导入 [Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)  来看就没广告了.
 
 >没有 YouTube 会员, 怎么后台播放训练听力?
 
-Ebuoy 目前没这个功能, 但是可以利用它的 BUG 来实现:
+[Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)  目前没这个功能, 但是可以利用它的 BUG 来实现:
 
 1. 设置里打开自动播放
-2. 进视频详情, 出现字幕文章但还未播放前, 切回桌面/关闭手机屏幕; Ebuoy 依然会自动播放, 从而实现后台播放.
+2. 进视频详情, 出现字幕文章但还未播放前, 切回桌面/关闭手机屏幕; [Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)  依然会自动播放, 从而实现后台播放.
 
 >怎么删除导入的视频?
 
@@ -158,10 +159,19 @@ Ebuoy 目前没这个功能, 但是可以利用它的 BUG 来实现:
 
   灰色不在这常用词里面, 但是并不代表不需要学.
 
-## 总结和其他
+## 总结
 
-使用过程记了[日记](/diary.md), 也有一点 [YouTube 频道推荐](/youtube.md), 希望在学英语的朋友一起尝试交流更好的学习方法和应用.
+重点和有价值的是有效的学习方法, [Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy) 仅仅是辅助这个方法的学习工具, 希望在学英语的朋友一起加入[讨论群](https://t.me/Ebuoy)尝试交流更好的学习方法和应用.
 
-Ebuoy 是 Flutter 开发, iOS 版无需从头开始, 但没 iPhone 且对开发生态也完全不熟, 放在以后了.
+[Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)  是 Flutter 开发, iOS 版无需从头开始, 但没 iPhone 且对开发生态也完全不熟, 放在以后了.
 
 如果有对开发应用有兴趣, 愿意提供帮助或意见的朋友, 欢迎联系. blog: https://www.bigzhu.net/
+
+## 附录
+
+* [字典配置](/dictionary.md)
+* [Ebuyo 的基础功能介绍](/how_to_use.md)
+* [以前尝试的方法](/old_way.md)
+* [学习方法使用日记](/diary.md)
+* [YouTube 频道推荐](/youtube.md)
+* [其他学习APP寻找调研](/other_tool.md)
