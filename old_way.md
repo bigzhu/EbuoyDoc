@@ -18,6 +18,58 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## 实践方法 v3.1
+
+### 基本操作及理论
+
+<img src="/assets/img/2019-12-23 20.52.35.jpg" width="240px"/>
+
+视频分享至 [Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy) 取出来的 **字幕文章** 前后增加了 **单词表格**.
+
+* NGSL 是常用单词排行, 数字越小越常用, 应优先掌握. `-` 为不在 3000 常用单词中, 但也要学.
+* WORDS 未掌握的单词, 括号内为本视频中未掌握单词数.
+* FIND 定位到文章里有该单词的那句, 为了结合上下文理解.
+
+用 extensive 和 intensive 两种方式阅读字幕文章, 和之前探索总结的理论一脉相承: 
+
+1. diffuse 状态下 extensive 阅读来 acquisition;
+2. focused 状态下 intensive 阅读来 learning;
+
+可以看以下视频来深入了解理念: 
+1. [How to Learn a Language: INPUT (Why most methods don't work)](https://www.youtube.com/watch?v=J_EQDtpYSNM) 
+2. [2 ways to read in a foreign language](https://www.youtube.com/watch?v=SASA9KDWGYc)
+3. 鼻祖理论: [Stephen Krashen on Language Acquisition](https://www.youtube.com/watch?v=NiTsduRreug)
+
+### extensive
+
+利用 [Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy) 把纯阅读改为听/看读模式: 放视频同时跟看字幕文章, 类似父母给孩子念故事, 比单纯的阅读难度更低, 用 **视觉** **听力** **阅读** 三方面同时加强理解上下文.
+
+努力去理解内容享受乐趣; 同时长按单词标记为正确的状态: 灰色/绿色为未掌握, 黑色为已掌握. 操作简单, 不会打断阅读节奏.
+
+切忌查单词, 陌生单词根据上下文内容来猜或者忽略, 保持 diffuse 和 extensive 状态.
+
+方法的缺点在于: 看完后, 陌生单词是标记出来了, 但依然未掌握. 根据上下文也很难确定单词准确含义. 没形成可理解输入, 无法 acquisition ?
+
+此时要结合 intensive 来解决.
+
+### intensive
+
+回到开头, 不播放视频, 把文章快速跳读一遍, 遇到有陌生单词停下来, 结合前后两句多看几遍, 根据上下文努力理解猜测. 可点击句前播放按钮, 让视频来读几遍来帮助猜测.
+
+而后单击查字典来确认准确含义, 多义词只看符合句子的解释, 彻底搞懂单词含义, 透彻了解该句内容, 补充之前观看时模糊的点.
+
+focused / intensive 的 learning 方式不会轻松愉快, 好在残留着刚看视频的新鲜感以及对模糊内容的不爽, 以此驱动, 并没那么难受.
+
+>注意!!! 未掌握单词很多, 视频听不懂, 那直接放弃! 重新找更简单的视频来导入; 千万别咬牙坚持逐个查单词, 效率低且无法结合上下文, 和直接背单词没区别, 非常糟糕.
+
+有 30 个生词我就会放弃了, 20 个以内比较理想.
+
+ps: 之前 extensive 阅读过程如果多次标记, 最好返回列表重新进入来更新表格单词.
+
+用 intensive 的方式彻底搞懂读完文章(禁止标记`已掌握`, 可以标记`未掌握`), 来到末尾又有一个单词表格; 把表格单词逐个看下来, 会发现好多单词不认识了, 明明才查过(没错!人类的短期记忆就是这么槽心); 用 `FIND` 定位到单词所在句, 结合句子应该能想起含义, 实在想不起再查字典.
+
+用跳来跳去的方式把表格单词过一遍, 再从头看表格单词, 依然会单词又不认识了(噗, 没进化好的人类)...... 循环, 直到表格里所有单词都能想起意思时, 就可退出去看其他视频.
+
 ## v2 我们究竟在学什么?
 
 看[学语言总是在痛苦里挣扎2019.12.5](#学语言总是在痛苦里挣扎2019.12.5)就知道, 我一直还在纠结学习方法的问题, 昨晚看了这个视频: [How to Acquire any language NOT learn it!](https://www.youtube.com/watch?v=illApgaLgGA), 给了很大的启发. 推荐仔细看看; 视频没有字幕也没有翻译, 如果难以看懂也没关系, 下面主要的理念大约是这样: 

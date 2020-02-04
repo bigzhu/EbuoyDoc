@@ -34,7 +34,7 @@
 
 [<img src="/assets/img/en_badge_web_generic.png" width="120px">](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)
 
-给没有安装 google play 的朋友请到[这里](https://github.com/bigzhu/EbuoyDoc/releases)选择最新版本以及对应平台下载:
+没有安装 google play 的朋友请到[这里](https://github.com/bigzhu/EbuoyDoc/releases)选择最新版本以及对应平台下载:
 
 欢迎通过 issues 或加入 https://t.me/Ebuoy 提问题和改进意见.
 
@@ -72,11 +72,15 @@
 
 兴趣阈值问题解决, 操作和工具得优化, 兼顾娱乐舒适性, 维持住学习的动力.
 
-## 实践方法 v3
+## 准备工作
 
-### 准备工作
+初期有做[APP寻找调研](/other_tool.md), 还是决定开发让自己满意; 
 
-初期有做[APP寻找调研](/other_tool.md), 还是决定开发让自己满意; 过程中做了必要的[字典配置](/dictionary.md), 尝试了[很多方法](/old_way.md), 把目前感觉最好的 v3 版整理出来, 需要对[Ebuyo 的基础功能](/how_to_use.md)有所了解.
+过程中做了必要的[字典配置](/dictionary.md), 尝试了[很多方法](/old_way.md), 目前在用的会放在下方, 以前尝试的方法也保留在[这里](/old_way.md)以做参考回顾. 
+
+使用方法前最好对对[Ebuyo 的基础功能](/how_to_use.md)有所了解.
+
+## 实践方法 v4
 
 ### 基本操作及理论
 
